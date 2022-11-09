@@ -1,2 +1,2 @@
 # stb
-See: https://github.com/nothings/stb
+From: https://github.com/nothings/stb

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(stb)
+project(stb_image)
 
-add_library(stb SHARED src/stb_image.cpp)
-target_include_directories(stb PUBLIC include)
+add_library(stb_image SHARED src/stb_image.cpp)
+target_include_directories(stb_image PUBLIC include)
